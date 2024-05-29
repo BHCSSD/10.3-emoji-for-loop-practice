@@ -1,11 +1,6 @@
 # 10.3-emoji-for-loop-practice
 Graded
 
-
-# Project: Drawing Emojis with Multiple For Loops in p5.js
-
-Use multiple `for` loops to draw emojis in different patterns on the screen.
-
 ## Requirements
 Using 4 different `for` loops to do the following"
 1. **Horizontal Line**:
