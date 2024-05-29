@@ -16,5 +16,6 @@ Using 4 different `for` loops to do the following"
 ## Experiments (not marked)
 - Try making the font size change with every loop
 - play with `frameRate()`
-- make the background colour allways change 
-- if you are brave try making a line that rotates 
+- make the background colour always change 
+- if you are brave try making a line that rotates
+   - if you are really brave have a line of emojis follow your mouse. 
