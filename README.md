@@ -7,7 +7,7 @@ Graded
 Use multiple `for` loops to draw emojis in different patterns on the screen.
 
 ## Requirements
-Using 4 different 4 loops to do the following"
+Using 4 different `for` loops to do the following"
 1. **Horizontal Line**:
    - Draw a line of emojis horizontally across the screen using a for loop.
 2. **Vertical Line**:
